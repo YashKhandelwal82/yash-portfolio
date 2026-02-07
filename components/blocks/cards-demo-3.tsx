@@ -75,7 +75,7 @@ const Skeleton = () => {
   useEffect(() => {
     // @ts-expect-error: Allowing assignment of a string to a number for testing purposes
     animate(sequence, {});
-  }, []);
+  }, [animate, sequence]);
   return (
     <div className="p-6 overflow-hidden h-full relative flex items-center justify-center">
       <div className="flex flex-row flex-shrink-0 justify-center items-center gap-2">

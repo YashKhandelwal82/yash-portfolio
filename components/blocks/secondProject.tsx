@@ -38,7 +38,7 @@ export default function FourthProject() {
         <CardTitle>Monastery360</CardTitle>
         <CardDescription>
           Built an immersive digital tourism platform offering 360° virtual monastery tours and AI-driven narration.
-          Designed cultural content archival system to digitally preserve Sikkim's heritage.
+          Designed cultural content archival system to digitally preserve Sikkim&apos;s heritage.
           Integrated ML models for intelligent narration and content recommendations.
         </CardDescription>
         <div className="flex gap-3 mt-3">
