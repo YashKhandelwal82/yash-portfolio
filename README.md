@@ -1,7 +1,7 @@
 # Portfolio Website
 
 ## Overview
-This portfolio website showcases the skills, projects, and achievements of **Ishaan Soni**, a Computer Science and Engineering student at **PDPM IIITDM Jabalpur**. The portfolio is built using **Next.js** and features a modern, responsive design with **dark mode support**.
+This portfolio website showcases the skills, projects, and achievements of **Yash Khandelwal**, a Computer Science and Engineering student at **PDPM IIITDM Jabalpur**. The portfolio is built using **Next.js** and features a modern, responsive design with **dark mode support**.
 
 ## Features
 - 📅 **Interactive timeline** for experience, achievements, and leadership sections
